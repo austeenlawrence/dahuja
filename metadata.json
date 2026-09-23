@@ -1,0 +1,6 @@
+{
+  "name": "Dahuja Furnishers",
+  "description": "Premium luxury furniture showroom in Abohar, Punjab. Explore bespoke living, bedroom, dining, and office collections near Railway Flyover, Malout Road.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
